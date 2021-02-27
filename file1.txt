@@ -1,2 +1,3 @@
 this is an example text file.
 Making a change on the remote repository.
+Adding more information to our text file.
